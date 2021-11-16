@@ -47,3 +47,10 @@ h1{
     font-size: 0.8rem;
 }
 
+#footer {
+    background: #777;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    padding:  0.5rem;
+}
