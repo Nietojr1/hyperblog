@@ -12,8 +12,6 @@ Todo lo referente al control de versiones de proyectos de cómputo, tanto comand
 
 **Tabla de Contenido**
 
-[TOCM]
-
 [TOC]
 #Configuracion Consola
 ##git config
